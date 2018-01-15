@@ -1,0 +1,10 @@
+STUDY	BIOENTITY	PROPERTY_TYPE	PROPERTY_VALUE	SEMANTIC_TAG	ANNOTATOR	ANNOTATION_DATE
+IMAGE		country	Cameroon	http://purl.obolibrary.org/obo/NCIT_C16379	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Colombia	http://purl.obolibrary.org/obo/NCIT_C16449	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Gambia	http://purl.obolibrary.org/obo/NCIT_C16598	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Iceland	http://purl.obolibrary.org/obo/NCIT_C16704	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Norway	http://purl.obolibrary.org/obo/NCIT_C16920	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Republic of the Congo	http://purl.obolibrary.org/obo/NCIT_C17266	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	USA	http://purl.obolibrary.org/obo/NCIT_C17234	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	East Timor	http://purl.obolibrary.org/obo/NCIT_C17200	Jun Fan	2018-01-15 12:00:00
+IMAGE		country	Virgin Islands	http://purl.obolibrary.org/obo/NCIT_C17255	Jun Fan	2018-01-15 12:00:00
